@@ -25,3 +25,36 @@
     width: 100%;
     background-repeat: no-repeat;
 }
+.dream{
+    background-image: url("/dream-bg.png");
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.change{
+    float: left;
+}
+.color-2{
+    color: orange;
+}
+.boxing{
+    box-shadow: 10px 10px 50px gray;
+    height: 250px;
+    padding: 10px 10px;
+}
+.bg{
+    background-image: url("exp-bg.png");
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.line-1{
+    border-left: 5px solid tomato;
+}
+.line-2{
+    border-left: 5px solid blue;
+}
+.center-text{
+    text-align: center;
+}
