@@ -1,0 +1,27 @@
+.head{
+    font-size: 40px;
+}
+.color{
+    color: rgb(248, 119, 179);
+}
+.box{
+    float: left;
+    width: 40%;
+    margin-left: 7%;
+}
+.box img{
+    width: 100%;
+}
+.btn{
+    background-color: rgb(236, 93, 141);
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+}
+.container{
+    background-image: url("/top-banner.png");
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
